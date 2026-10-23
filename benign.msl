@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<image>
+  <read filename="xc:red" />
+  <resize geometry="8x8" />
+  <write filename="msl_probe_out.png" />
+</image>
