@@ -1,0 +1,40 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 523 >>
+stream
+BT /F1 11 Tf 20 750 Td 14 TL
+(ZXQMARK ALPHA-7734-BRAVO the quick brown fox jumps over the lazy dog) Tj T*
+(ZXQMARK CHARLIE-2291-DELTA confidential quarterly revenue figures for acme corp) Tj T*
+(ZXQMARK ECHO-5518-FOXTROT project codename aurora borealis internal only) Tj T*
+(ZXQMARK GOLF-8842-HOTEL employee ssn 123-45-6789 date of birth 1985-03-14) Tj T*
+(ZXQMARK INDIA-3307-JULIET api key AIzaSyD-THIS-IS-A-DECOY-CREDENTIAL-STRING) Tj T*
+(ZXQMARK KILO-6694-LIMA password hunter2 rotated on 2026-01-15 by admin) Tj T*
+ET
+
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000815 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+885
+%%EOF
